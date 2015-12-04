@@ -1,0 +1,11 @@
+{
+  "name": "tddshield",
+  "version": "1.0.0",
+  "description": "A game for learning JavaScript TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Ortiz <mteusortiz@gmail.com>",
+  "license": "MIT"
+}
